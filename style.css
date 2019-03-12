@@ -1,4 +1,9 @@
-
+header {
+  color: rgb(200, 25, 25);
+  text-decoration: underline;
+display: flex;
+  flex-direction: column;
+}
 
 
 
